@@ -9,9 +9,7 @@ The repo contains 1 jupyter notebook, 1 SQL database schema, and 6 source data f
    - category.csv
    - contacts.csv
    - subcategory.csv
-
 -----
-
 Resources:
 - https://stackoverflow.com/questions/71516740/how-to-convert-object-data-type-into-int64-in-python
 - https://stackoverflow.com/questions/25292838/applying-regex-to-a-pandas-dataframe
