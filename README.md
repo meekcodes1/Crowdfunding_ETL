@@ -2,13 +2,13 @@
 
 This repository contains 1 jupyter notebook, 1 SQL database schema, and 6 source data files
 -----
-1. ETL_Mini_Project_RDaaleman_MDaugirdas_BApikos-bennett_SQurashi.ipynb contains the primary deliverable
-2. crowdfunding_db_schema.sql contains the database schema
+1. "ETL_Mini_Project_RDaaleman_MDaugirdas_BApikos-bennett_SQurashi.ipynb" contains the primary deliverable
+2. "crowdfunding_db_schema.sql" contains the database schema
 3. The 4 CSV files used to populate the schema are located in the Resources folder
-   - campaign.csv
-   - category.csv
-   - contacts.csv
-   - subcategory.csv
+   - "campaign.csv"
+   - "category.csv"
+   - "contacts.csv"
+   - "subcategory.csv"
 -----
 Resources:
 - https://stackoverflow.com/questions/71516740/how-to-convert-object-data-type-into-int64-in-python
