@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-The repo contains 1 jupyter notebook, 1 SQL database schema, and 6 source data files
+This repository contains 1 jupyter notebook, 1 SQL database schema, and 6 source data files
 -----
 1. ETL_Mini_Project_RDaaleman_MDaugirdas_BApikos-bennett_SQurashi.ipynb contains the primary deliverable
 2. crowdfunding_db_schema.sql contains the database schema
